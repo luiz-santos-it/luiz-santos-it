@@ -20,13 +20,6 @@ Welcome to my GitHub profile! I'm a seasoned Software Engineer with a passion fo
 - **Innovative Software Solutions:** Developing and optimizing software solutions across various industries to enhance user experience and performance.
 - **Security Enhancements:** Implementing and improving security measures in software systems.
 
-## 📫 How to Reach Me
-- **Email:** guilherme_ecb@hotmail.com
-- **LinkedIn:** [Luiz Santos](https://www.linkedin.com/in/luiz-santos-4433a6167)
-
-## 😄 Pronouns
-He/Him
-
 ## ⚡ Fun Fact
 When I'm not coding, you can find me boxing or playing soccer. I enjoy staying active and find these sports to be great ways to unwind and stay fit.
 
